@@ -1,8 +1,9 @@
+import Main from "../components/main"
 
 export default function Home() {
   return (
-    <div className="flex justify-center">
-      Virtual Money
+    <div>
+      <Main/>
     </div>
   )
 }
