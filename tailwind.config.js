@@ -8,7 +8,7 @@ module.exports = {
       },
       colors: {
         vmmain: {
-          light: '#45DACE',
+          light: '#FFB40D',
           default: '#1F1C2A',
           dark: '#405C6E'
         }
