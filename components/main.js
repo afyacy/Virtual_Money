@@ -3,7 +3,7 @@ import Header from "./header"
 
 function Main() {
   return (
-    <div className="font-Poppins bg-vm-main text-white">
+    <div className="font-Poppins bg-vmmain-default text-white">
       <Header/>
       <main>
         Main

@@ -7,7 +7,11 @@ module.exports = {
        Poppins: ["Poppins", "sans-serif"],
       },
       colors: {
-          "vm-main": "#1F1C2A"
+        vmmain: {
+          light: '#45DACE',
+          default: '#1F1C2A',
+          dark: '#405C6E'
+        }
       },
     },
   },
